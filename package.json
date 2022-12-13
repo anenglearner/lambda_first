@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/anenglearner/lambda_first#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twitter": "^1.7.1"
   }
 }
